@@ -15,3 +15,6 @@ A partir dessa ideia, a desenvolvi do zero, construindo tanto o back, quanto o f
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 </div>
+
+# `Vídeo da aplicação pronta`
+https://user-images.githubusercontent.com/114877391/196066312-a0b1846c-ba03-4219-b932-45074e6b7807.mp4
